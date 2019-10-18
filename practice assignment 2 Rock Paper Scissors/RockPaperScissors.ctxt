@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RockPaperScissors
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ randomCchoice()
+comment3.params=
+comment3.target=void\ result()
+numComments=4
